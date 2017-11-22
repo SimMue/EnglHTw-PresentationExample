@@ -1,0 +1,15 @@
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\App.g.cs
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.g.resources
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Simon\OneDrive\Dokumente\Studium\Files\EnglHTw\Own_Presentation\_git\EnglHTw-PresentationExample\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -27,7 +27,7 @@ namespace HelloWorld
 
         private void submit_button_Click(object sender, RoutedEventArgs e)
         {
-            Greeting_Label.Content = $"Hello {Name_Input.Text}!";
+            Greeting_Label.Content = $"Hello {Name_Input.Text}";
         }
     }
 }
